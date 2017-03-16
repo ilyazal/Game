@@ -1,0 +1,13 @@
+time: 0 ms
+length dir: 11
+43: for save\Thu May 26 09-39-46 MSK 2016.txt
+39: for save\Thu May 26 09-39-40 MSK 2016.txt
+38: for save\Thu May 26 09-39-39 MSK 2016.txt
+37: for save\Thu May 26 09-39-37 MSK 2016.txt
+37: for save\Thu May 26 09-39-38 MSK 2016.txt
+35: for save\Thu May 26 09-39-36 MSK 2016.txt
+16: for save\Sun May 15 13-07-04 MSK 2016.txt
+15: for save\Sun May 15 13-07-03 MSK 2016.txt
+14: for save\Sun May 15 13-07-02 MSK 2016.txt
+13: for save\Sun May 15 13-07-01 MSK 2016.txt
+1: for save\Wed May 25 19-15-54 MSK 2016.txt
